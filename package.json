@@ -1,0 +1,19 @@
+{
+  "name": "mehnazplannerapp",
+  "version": "1.0.0",
+  "description": "Fireboost your productivity with MehnazPlannerAPP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvenLEAF/MehnazPlannerAPP.git"
+  },
+  "author": "SilvenLEAF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilvenLEAF/MehnazPlannerAPP/issues"
+  },
+  "homepage": "https://github.com/SilvenLEAF/MehnazPlannerAPP#readme"
+}

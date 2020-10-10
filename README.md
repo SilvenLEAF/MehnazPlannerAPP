@@ -1,2 +1,3 @@
-# StorehouseAPP
-The App version of Storehouse!!!
+# MehnazPlannerAPP
+*Fireboost your productivity with* **MehnazPlannerAPP**
+
